@@ -15,3 +15,9 @@ Cargo.lock
 .DS_Store
 Thumbs.db
 test_snapshots/
+
+# TypeScript packages
+packages/*/node_modules/
+packages/*/dist/
+packages/*/.turbo/
+packages/*/coverage/
